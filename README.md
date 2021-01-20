@@ -3,7 +3,7 @@
 
 ## Lecture Summary
 * [Lecture Summary](lectureSummary/README.md)
-  * [21/01/19](lectureSummary/2021_01_19_강의정리.ipynb)
+  * [21/01/19](lectureSummary/2021_01_19_lecture_summary.ipynb)
 
 
 ## Paper Reading
