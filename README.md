@@ -13,6 +13,7 @@
 
 ## Paper Reading
 * [Paper Reading](paperReading/README.md)
+  * [Attention Is All You Need](paperReading/attention_is_all_you_need.pptx)
 
 
 ## Python Study
