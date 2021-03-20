@@ -12,6 +12,8 @@
   * [21/02/19](lectureSummary/2021_02_19_lecture_summary.ipynb)
   * [21/02/24](lectureSummary/2021_02_24_lecture_summary.ipynb)
   * [21/03/08](lectureSummary/2021_03_08_lecture_summary.ipynb)
+  * [21/03/11](lectureSummary/2021_03_11_lecture_summary.ipynb)
+
 
 
 ## Paper Reading
